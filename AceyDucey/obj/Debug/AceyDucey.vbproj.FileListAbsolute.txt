@@ -1,0 +1,11 @@
+C:\חמוטל\עבודה\B\AceyDucey\AceyDucey\bin\Debug\AceyDucey.exe.config
+C:\חמוטל\עבודה\B\AceyDucey\AceyDucey\bin\Debug\AceyDucey.exe
+C:\חמוטל\עבודה\B\AceyDucey\AceyDucey\bin\Debug\AceyDucey.pdb
+C:\חמוטל\עבודה\B\AceyDucey\AceyDucey\bin\Debug\AceyDucey.xml
+C:\חמוטל\עבודה\B\AceyDucey\AceyDucey\obj\Debug\AceyDucey.vbprojResolveAssemblyReference.cache
+C:\חמוטל\עבודה\B\AceyDucey\AceyDucey\obj\Debug\AceyDucey.Resources.resources
+C:\חמוטל\עבודה\B\AceyDucey\AceyDucey\obj\Debug\AceyDucey.vbproj.GenerateResource.Cache
+C:\חמוטל\עבודה\B\AceyDucey\AceyDucey\obj\Debug\AceyDucey.vbproj.CoreCompileInputs.cache
+C:\חמוטל\עבודה\B\AceyDucey\AceyDucey\obj\Debug\AceyDucey.exe
+C:\חמוטל\עבודה\B\AceyDucey\AceyDucey\obj\Debug\AceyDucey.xml
+C:\חמוטל\עבודה\B\AceyDucey\AceyDucey\obj\Debug\AceyDucey.pdb
